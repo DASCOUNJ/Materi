@@ -2,8 +2,8 @@
 
 Untuk instalasi python pertama kamu perlu lebih dahulu untuk memilih tipe yang kamu inginkan. Dianjurkan untuk memilih salah satu dari 2 tipe dibawah:
 
-1. [Anaconda Distribution]('## Instalasi Anaconda Distribution')
-2. [Python (Base Interpreter)]('## Instalasi Python (Base Interpreter)')
+1. Anaconda Distribution
+2. Python (Base Interpreter)
 
 ## Instalasi Anaconda Distribution
 
