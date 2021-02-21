@@ -2,7 +2,7 @@
 
 Pengenalan terhadap `Python` dan instalasi tools yang akan digunakan untuk mengolah data kedepannya.
 
-Materi : 
+Materi : [Preliminary.pdf](./Preliminary.pdf)
 
 ## [Instalasi Python](Instalasi%20Python)
 
