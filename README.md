@@ -1,4 +1,4 @@
-<img src="DASCO UNJ banner.png" alt="DASCO UNJ 2021">
+![DASCO UNJ 2021](img/DASCO%20UNJ%20banner.png)
 
 # Materi Pembelajaran Dasco
 
