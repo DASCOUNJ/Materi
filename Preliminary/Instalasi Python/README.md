@@ -60,3 +60,5 @@ Berikut adalah cara instalasinya:
    py -m pip install numpy pandas matplotlib seaborn jupyter scikit-learn
    ```
 3. Tunggu hingga proses instalasi selesai dan library siap untuk digunakan
+
+**© DASCO 2021**

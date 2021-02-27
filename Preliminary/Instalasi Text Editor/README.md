@@ -29,3 +29,5 @@ Dianjurkan untuk memasang Extensi `Python` pada VSCode. Berikut adalah cara pema
 2. Pada bagian sebelah kanan pilih menu `Extensions` lalu search `Python` <br>
    ![vscode-python](img/vscode-python.png)
 3. Install extensi `Python`
+
+**© DASCO 2021**

@@ -29,3 +29,5 @@ Pada bagian ini akan dijelaskan cara menginstall python. Adapun kalian dapat mem
 Pada bagian ini akan dijelaskan cara menginstall text editor yang akan digunakan untuk scripting yaitu VSCode.
 
 **Note** Untuk yang menggunakan `Python (Base Interpreter)` sangat disarankan untuk menginstal text editor namun untuk yang menggunakan `Anaconda Distribution` tidak diharuskan karena anaconda memiliki IDE bawaan yaitu `Spyder`.
+
+**© DASCO 2021**

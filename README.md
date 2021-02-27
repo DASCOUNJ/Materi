@@ -4,4 +4,7 @@
 
 1. [Preliminary](./Preliminary)<br>
    Pengenalan dan installasi tools yang akan digunakan untuk kedepannya.
-2. [Python](./Python)
+2. [Python](./Python)<br>
+   Mengenal lebih dalam bahasa pemrograman python untuk `Data Science`
+
+**© DASCO 2021**
