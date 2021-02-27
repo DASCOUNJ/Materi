@@ -8,7 +8,7 @@ Materi : [Materi.pdf](Materi.pdf)
 
 | Launch via | Link     |
 | ------     | :------: |
-| Binder     | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DASCOUNJ/Materi/43f7908de58c5eb9a292d8169331f120c0d535b0?filepath=Python%2FBagian%20I%2FLatihan.ipynb) |
+| Binder     | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DASCOUNJ/Materi/4b46e9699de6374169897e0b23ba0eb575227f88?filepath=01.%20Python%2FBagian%20I%2FLatihan.ipynb) |
 | Source Code | [Latihan.ipynb](Latihan.ipynb) |
 
 **© DASCO 2021**
